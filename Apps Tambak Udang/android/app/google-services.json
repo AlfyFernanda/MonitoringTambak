@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "173671607439",
+    "firebase_url": "https://kualitas-tambak-udang.firebaseio.com",
+    "project_id": "kualitas-tambak-udang",
+    "storage_bucket": "kualitas-tambak-udang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173671607439:android:f9c9fed081d9fb747a14fa",
+        "android_client_info": {
+          "package_name": "com.example.tambak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173671607439-0i21qj64i7gftpar2i9fk2vun7k3c46h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2AX_-sp41Lxxr5pJrg2x-1JT1MkXjfps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173671607439-0i21qj64i7gftpar2i9fk2vun7k3c46h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
